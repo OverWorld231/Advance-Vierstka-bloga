@@ -109,6 +109,6 @@
         margin-right: 5%;
     }
     .main__card:nth-child(3n){
-        margin-right: "";
+        margin-right: 0;
     }
 }
